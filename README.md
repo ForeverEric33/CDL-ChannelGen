@@ -34,4 +34,4 @@ The CDL model is a widely adopted channel modeling approach that captures the mu
 - **Hardware Testing**: Generates CIRs for validating the performance of hardware implementations (e.g., FPGAs, DSPs).
 
 ## How to Use
-run main.cpp and change your own configurations.
+run 'main.cpp' and change your own configurations.
